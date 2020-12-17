@@ -31,6 +31,6 @@ The supervised learning model is evaluated in a [Kaggle competition](https://www
 
 ## Licensing, Authors, and Acknowledgements<a name="licensing"></a>
 
-Acknowledge to [Udacity](https://www.udacity.com/) and [Arvato Financial Services](https://finance.arvato.com/en-us/)for the data.  
+Acknowledge to [Udacity](https://www.udacity.com/) and [Arvato Financial Services](https://finance.arvato.com/en-us/) for the data.  
 
 Acknowledge to a few repos I studied on Github: [[1]](https://github.com/OliverFarren/arvato-udacity-customersegmentation), [[2]](https://github.com/pranaymodukuru/Bertelsmann-Arvato-customer-segmentation), [[3]](https://github.com/shihao-wen/Udacity-DSND).
