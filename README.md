@@ -30,6 +30,7 @@ The main findings of the code can be found at a Medium post available [here](htt
 The supervised learning model is evaluated in a [Kaggle competition](https://www.kaggle.com/c/udacity-arvato-identify-customers/leaderboard).
 
 ## Licensing, Authors, and Acknowledgements<a name="licensing"></a>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Acknowledge to [Udacity](https://www.udacity.com/) and [Arvato Financial Services](https://finance.arvato.com/en-us/) for the data.  
 
